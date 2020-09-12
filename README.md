@@ -1,1 +1,1 @@
-# Praticas-em-C-C-
+# Praticas em C/C++
